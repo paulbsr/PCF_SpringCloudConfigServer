@@ -8,8 +8,9 @@
   <groupId>ie.bester.assignment</groupId>
   <artifactId>AITAssignment</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>AIT Assignment</name>
-  <description>AIT Assignment</description>
+  <packaging>war</packaging>
+  <name>AITAssignment_SpringCloudConfigServer</name>
+  <description>AITAssignment_SpringCloudConfigServer</description>
 
 	<properties>
 		<java.version>1.8</java.version>
