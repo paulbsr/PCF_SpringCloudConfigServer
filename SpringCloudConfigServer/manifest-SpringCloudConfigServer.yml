@@ -1,0 +1,9 @@
+applications:
+  - name: SpringCloudConfigServer1
+    memory: 1gb
+    disk_quota: 1gb
+    routes:
+      - route: springcloudconfigserver.apps.pcfepg3mi.gm.com
+    path: build/
+    buildpacks:
+      - java_buildpack
